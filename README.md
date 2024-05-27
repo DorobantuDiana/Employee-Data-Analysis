@@ -37,13 +37,13 @@ A detailed description of the variables can be found in the `data_dictionary.xls
 
 `eda.ipynb`: Jupyter notebook for exploratory data analysis.
 
-`main.ipynb`: Jupyter notebook containing the classification model for attrition prediction and analysis of predictor variable importance.
+`employee-attrition-prediction.ipynb`: Jupyter notebook containing the classification model for attrition prediction and analysis of predictor variable importance.
 
 ## Steps to Replicate Results
 
 1. Clone the repository to your local machine.
 2. Setup the environment by ensuring that Python and the required libraries are installed, as specified in the `requirements.txt` file.
 3. Open and run `eda.ipynb` to perform exploratory data analysis and understand the dataset.
-4. Open and run `main.ipynb` to train the classification models for attrition prediction and analyze the importance of predictor variables.
+4. Open and run `employee-attrition-prediction.ipynb` to train the classification models for attrition prediction and analyze the importance of predictor variables.
 5. Review the results, including model performance metrics and variable importance, to gain insights into employee attrition.
 </div>
